@@ -1,0 +1,2 @@
+#!/bin/bosh
+chmod 007 hello
